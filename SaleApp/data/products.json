@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 18",
+    "price": 30000000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Y46ibCudO90N6HnoS6IK-2TF7DLrVSA7qcA8uyIffw&s=10",
+    "cate_id": 1
+  },
+    {
+    "id": 2,
+    "name": "Iphone 13",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091944/refurb-iphone-13-pro-max-blue-2023_tuhb2j.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Iphone 14",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091915/refurb-iphone-14-pro-spaceblack-202404_zrfqfz.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091967/419VTYVRD1L._AC__vih8qs.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Iphone Pro Max 15",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729842193/iPhone_15_Pro_Natural_1_ltf9vr.webp",
+    "cate_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Laptop Dell",
+    "price": 29000000,
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/360691/dell-15-dc15250-i5-1334u-71084746-thumb-639027872992844662-600x600.jpg",
+    "cate_id": 3
+  }
+
+]
